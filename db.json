@@ -68,7 +68,7 @@
       "category": "shirt",
       "color": "black",
       "Occasion": "Casual Wear",
-      "description":"Offered striped shirts are stringently monitored by quality controllers on various parameters in order to ensure quality.",
+      "description": "Offered striped shirts are stringently monitored by quality controllers on various parameters in order to ensure quality.",
       "image": "https://5.imimg.com/data5/XO/AE/MY-39077357/mens-check-shirts.jpg",
       "id": 3
     },
@@ -154,6 +154,12 @@
       "email": "test",
       "password": "test",
       "id": 6
+    },
+    {
+      "name": "abhi",
+      "email": "abc123@gmail.com",
+      "password": "abc123@",
+      "id": 7
     }
   ],
   "cart": [
@@ -216,6 +222,42 @@
       "productId": 6,
       "userId": 6,
       "id": 11
+    },
+    {
+      "name": "Full Sleeve Cotton Hand Block Print Men''S Check Shirt, GSM: 100-150, Size: S-Xl ",
+      "price": "550",
+      "category": "t-shirts",
+      "color": "white and green ",
+      "description": "Men''S Check Shirt",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/VI/RA/WQ/7244428/hand-block-print-men-s-check-shirt-500x500.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 7,
+      "id": 12
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "quantity": 1,
+      "productId": 4,
+      "userId": 7,
+      "id": 13
+    },
+    {
+      "name": "Men Printed Round Neck Cotton Blend Light Blue T-Shirt",
+      "price": "1999",
+      "category": " Sweat T-Shirt",
+      "color": "light blue",
+      "description": "Western Wear for boys",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/t-shirt/z/0/k/l-all-rbcpon-sky-one-nb-nicky-boy-original-imagrdhcgyk7papf.jpeg?q=70",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 7,
+      "id": 14
     }
   ],
   "orders": [
